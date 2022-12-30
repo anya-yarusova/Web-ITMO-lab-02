@@ -3,7 +3,7 @@
 
 ## Задание
 <p align="center">
-    <img src = "https://github.com/anya-yarusova/Web-ITMO-lab-02/sources/areas.png"/>
+    <img src = "https://github.com/anya-yarusova/Web-ITMO-lab-02/tree/master/sources/areas.png"/>
 </p>
 
 
