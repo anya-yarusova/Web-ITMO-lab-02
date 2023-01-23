@@ -1,9 +1,8 @@
 # Lab_02
-[Лабораторная работа по программированию #2](https://se.ifmo.ru/~s335149/index.html)
 
 ## Задание
 <p align="center">
-    <img src = "https://github.com/anya-yarusova/Web-ITMO-lab-02/tree/master/sources/areas.png"/>
+    <img src = "https://github.com/anya-yarusova/Web-ITMO-lab-02/blob/master/sources/areas.png"/>
 </p>
 
 
