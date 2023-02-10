@@ -1,6 +1,5 @@
 package com.anyarusova.lab.dto;
 
-//TODO: commit, start new repo
 
 import java.util.Objects;
 
